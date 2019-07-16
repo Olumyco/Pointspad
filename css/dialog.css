@@ -1,0 +1,65 @@
+@charset "windows-1252";
+@import url(http://www..com);
+/*	Name: Olumyco Technologies        */
+/*	Append CLASS and/or ID names for elements        */
+
+
+#back {
+    width: 370px;
+    height: 160px;
+    background: #C2B69F;
+    border: 1px solid #948B7B;
+}
+
+#face {
+    width: 355px;
+    height: 122px;
+    background: #FFFFFF;
+    margin-left: 6.45px;
+    margin-top: 5px;
+    border: 1px solid #B0A48D;
+}
+
+#title {
+    font-size-adjust: 0.9em;
+    font-family: Helvetica;
+    text-align: center;
+    margin: 5px;
+    cursor: default;
+}
+#message {
+    text-align: center;
+    cursor: default;
+}
+
+#control {
+    text-align: center;
+}
+
+#yes, #no, #cancel {
+    width: 80px;
+    padding:2px;
+	margin-top: 15px;
+}
+#close {
+    padding: 1px 12px 1px 12px;
+    font-size: 1.2em;
+    font-family: Lucida Console;
+    background: #C72C2C;
+    color: #FFFFFF;
+    position: absolute;
+    top: 0;
+    left: 328px;
+}
+
+#close:hover {
+	background: #D40404;
+}
+
+#dialog {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+}

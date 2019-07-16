@@ -1,0 +1,21 @@
+End-User Software License Agreement
+
+THIS AGREEMENT IS A LEGAL DOCUMENT. READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING THE SOFTWARE. IT PROVIDES A LICENSE TO USE THE SOFTWARE AND CONTAINS WARRANTY INFORMATION AND LIABILITY DISCLAIMERS. BY INSTALLING AND USING THE SOFTWARE, YOU ARE CONFIRMING ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY THE TERMS OF THIS AGREEMENT.
+
+This Agreement allows you to:
+(a) Install and use the Software on a single computer. (b) Install the Software on a storage device, such as a network server, and run the Software on an internal network, provided the number of concurrent users does not exceed the number of copies of the Software purchased.  A copy of the Software must be purchased for each such user.
+
+License Restrictions
+You may not decompile, reverse engineer, disassemble, or otherwise reduce the Software to a human-perceivable form. You may not rent, lease or sublicense the Software.  You may not modify the Software or create derivative works based upon the Software. 
+
+Ownership
+The foregoing license gives you limited rights to use the Software. Although you own the media on which the Software is recorded, you do not become the owner of the Software. All rights not specifically granted in this Agreement, including Federal and International Copyrights, are reserved by Olumycosoft.
+	
+Disclaimer
+This Program is provided "as is".  We warrant that the Program will substantially comply with the specifications set out in the documentation.  Except as stated herein this Program is provided, without warranty of any kind, express or implied, statutory or otherwise, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+
+The entire risk as to the quality and performance of the Program is with you.  Should the Program prove defective, you assume the entire cost of all necessary servicing, repair or correction.  We do not warrant that the functions contained in the Program will meet your requirements or that the operation of the Program will be uninterrupted or error-free.
+
+OUR SOLE LIABILITY TO YOU FOR ANY CLAIM, DEMAND OR CAUSE OR ACTION WHATSOEVER, AND REGARDLESS OF FORM OF ACTION, WHETHER IN CONTRACT OR TORT, INCLUDING NEGLIGENCE, SHALL BE LIMITED, AT OUR SOLE OPTION, TO REPLACEMENT OF THE PROGRAM OR REFUND OF THE PURCHASE PRICE.  IN NO EVENT SHALL WE BE LIABLE FOR OR YOU HAVE A REMEDY FOR RECOVERY OF ANY SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, INCLUDING BUT NOT LIMITED TO LOST PROFITS, LOST SAVINGS, LOST REVENUES OR ECONOMIC LOSS OF ANY KIND, OR FOR ANY CLAIM BY ANY THIRD PARTY.
+
+All trademarks are acknowledged as the property of their respective owners.

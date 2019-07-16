@@ -1,0 +1,2 @@
+This Software is called Pointspad.
+Its an enhanced text editor

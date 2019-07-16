@@ -1,0 +1,3 @@
+Congratulations!
+Your application is successfully installed.
+Click on Next to finish the installation.

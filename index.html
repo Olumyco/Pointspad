@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Unnamed - Pointspad</title>
+    
+	<link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/dialog.css" />
+    
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery-ui.js"></script>
+	<script src="js/menu.js"></script>
+	<script src="js/main.js"></script>
+	<script src="js/app.js"></script>
+    <script src="js/dialog.js"></script>
+</head>
+<body>
+
+<input id="open" type="file" style="display:none" accept=".txt"/>
+<input id="save" type="file" nwsaveas=".txt" style="display:none" accept=".txt"/>
+    
+<section id="pointArea">
+    <textarea id="editor" autofocus></textarea>
+</section>
+
+<section id="pointArea2">
+    <div id="editor2"></div>
+</section>
+
+<aside id="dialog">
+   <section id="back">
+       <p id="title">Pointspad<span id="close">x</span></p>
+        <article id="face">
+            <p id="message">Do you want to save changes to <span id="dialogRes" style="color: blue;"></span> ?</p>
+        
+        
+            <div id="control">
+                <button id="yes">Yes</button> <button id="no">No</button> <button id="cancel">Cancel</button>
+            </div>
+        </article>
+    </section>	
+</aside>
+ 
+</body>
+</html>
