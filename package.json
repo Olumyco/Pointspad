@@ -1,6 +1,6 @@
 {
   "main": "index.html",
-  "name": "Pointspad",
+  "name": "pointspad",
   "description": "An app to take down points",
   "version": "0.1.0",
   "keywords": [ "jotter", "write" ],
